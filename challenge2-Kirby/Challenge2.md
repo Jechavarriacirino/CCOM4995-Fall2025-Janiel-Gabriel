@@ -39,14 +39,23 @@
 <p>17.Select and drag every single primitive your kirby's made out of, except your body, into kirby's body on the Hierarchy panel on the left.</p>
 <p>17.a. It should look like all objects, except the body, are indented. Test to see if the parenting worked by selecting and moving only the body</p>
 <p>18. Select, drag, and drop the parented kirby model into the lower panel which has the asset folder on display. This will make it a prefab</p>
+<p>19. On the bottom tab, where the assets folder is open and where your prefab is, right click and Create a new Folder. Name it Materials</p>
+<p>20. </p>
 
 
 
 
 
 
+<h2>Us and Kirby</h2>
 
+<p>Gabriel: </p>
 
-<h2>About The Kirbys</h2>
+<p>Janiel: Kirby is among my favorite franchises, to the point I know way too much about most of the games. The games and their mechanics have been an inspiration to me in many creative ways, although the Kirby I made is very lackluster and doesn't look to be made by a Kirby fan. Even so, this exercise was a good excuse for a Kirby superfan like me to both get in good practice, and do something Kirby related.</p>
 <h2>Experience Gained</h2>
+
+<p>Gabriel: </p>
+
+<p>Janiel: Personally, I got to get a stronger grasp on forming complex models with just primitive objects. Although I couldn't get a handle of the terrain building process just yet, all of this I can use for my own future endeavors. Building with primitives is rather intuitive but not the best process, and it can be very annoying at times with how limited the options are, but it is still a good tool that I am happy to understand. </p>
+
 
