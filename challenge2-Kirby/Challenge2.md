@@ -41,7 +41,9 @@
 <p>17.a. It should look like all objects, except the body, are indented. Test to see if the parenting worked by selecting and moving only the body</p>
 <p>18. Select, drag, and drop the parented kirby model into the lower panel which has the asset folder on display. This will make it a prefab</p>
 <p>19. On the bottom tab, where the assets folder is open and where your prefab is, right click and Create a new Folder. Name it Materials</p>
-<p>20. </p>
+<p>20. Enter that folder, right click anywhere in the lower panel, and Create a new Material</p>
+<p>21. Under the Surface Inputs tab in the right-side panel, selecto your desired color</p>
+<p>22. To add the color to your Kirby and his items, select, drag, and drop the material on the mesh you want to color</p>
 
 
 
@@ -58,6 +60,7 @@
 <p>Gabriel: </p>
 
 <p>Janiel: Personally, I got to get a stronger grasp on forming complex models with just primitive objects. Although I couldn't get a handle of the terrain building process just yet, all of this I can use for my own future endeavors. Building with primitives is rather intuitive but not the best process, and it can be very annoying at times with how limited the options are, but it is still a good tool that I am happy to understand. </p>
+
 
 
 
