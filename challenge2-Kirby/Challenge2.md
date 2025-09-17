@@ -1,4 +1,5 @@
 <h2>Making The Terrain</h2>
+<p>... good question</p>
 <h2>Making The Kirbys</h2>
 <p>Before anything, it's recommended you find a reference image of the kind of Kirby you want to make. Kirby is simple to make, but it's always smart to have a reference when recreating somethign that doesn't exist. Before we start, observe the top toolbar, just below where it says "Scene, Game, Asset Store", go to the selectable box just under "Scene" and make sure it says Center, and that the box next to it says "Local". If not, click on them and change them to these settings. 
 </p><p>There are many ways to make a Kirby and many ways to start, but for this, we used the method introduced in Kirby's Adventure for the Nintendo Entretainment System. It goes:</p>
@@ -57,5 +58,6 @@
 <p>Gabriel: </p>
 
 <p>Janiel: Personally, I got to get a stronger grasp on forming complex models with just primitive objects. Although I couldn't get a handle of the terrain building process just yet, all of this I can use for my own future endeavors. Building with primitives is rather intuitive but not the best process, and it can be very annoying at times with how limited the options are, but it is still a good tool that I am happy to understand. </p>
+
 
 
