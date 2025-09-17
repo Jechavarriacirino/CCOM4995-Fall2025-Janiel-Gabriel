@@ -59,21 +59,31 @@
 <p>22. To add the color to your Kirby and his items, select, drag, and drop the material on the mesh you want to color</p>
 <img src="/Step 22 Paint your Kirby.png">
 
+
 <h2>Making The Terrain</h2>
-<p>... good question</p>
+<p>We encountered many technical faults when creating the terrain and we weren't quite able to complete this step with excellence... or at all. We'll portray the steps up until where we were unable to move forward.</p>
+<p>23. Download or convert a height map RAW file from anywhere, and place it into your Assets folder manually</p>
+<p>23.a. Please note that this step is done <em>outside</em> of Unity, in your file browser.</p>
+<p>24. In unity, generate a Terrain game object</p>
+<p>25. In the inspector panel, head to the Terrain window and select Terrain Settings</p>
+<p>26. Scroll down until you see Mesh Resolution, and input:</p>
+
+
+
+
+
+
+
 <h2>Us and Kirby</h2>
+
 
 <p>Gabriel: I Know Kirby since I was a Kid playing on my DS and I always find it a fun and cool character, having the ability to copy the enemies is a great concept. I became more fan of Kirby by playing super smash since it was my favorite chacter. Definetly glad to get to work with a character i liked.</p>
 
 <p>Janiel: Kirby is among my favorite franchises, to the point I know way too much about most of the games. The games and their mechanics have been an inspiration to me in many creative ways, although the Kirby I made is very lackluster and doesn't look to be made by a Kirby fan. Even so, this exercise was a good excuse for a Kirby superfan like me to both get in good practice, and do something Kirby related.</p>
+
+
 <h2>Experience Gained</h2>
 
 <p>Gabriel: What I truly learn here is that working with only primitive objects its hard and even working with a simple desing like Kirby can become complex. Learned that the I need more experience with the Terrain, because it was with what I struggle the most.</p>
 
 <p>Janiel: Personally, I got to get a stronger grasp on forming complex models with just primitive objects. Although I couldn't get a handle of the terrain building process just yet, all of this I can use for my own future endeavors. Building with primitives is rather intuitive but not the best process, and it can be very annoying at times with how limited the options are, but it is still a good tool that I am happy to understand. </p>
-
-
-
-
-
-
