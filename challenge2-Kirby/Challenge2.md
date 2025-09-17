@@ -72,8 +72,8 @@
 <p>27. Import The RAW file on Texture resolutions.</p>
 <img src="/Step 27 Import The RAW file into your Terrain.png"> 
 <p>28. Drag the Kirbys into your terrain.</p>
-<img src="/step28a.png"> 
-<img src="/step28b.png"> 
+<img src="/Step 28a.png"> 
+<img src="/step 28b.png"> 
 
 
 
@@ -92,6 +92,7 @@
 <p>Gabriel: What I truly learn here is that working with only primitive objects its hard and even working with a simple desing like Kirby can become complex. Learned that the I need more experience with the Terrain, because it was with what I struggle the most.</p>
 
 <p>Janiel: Personally, I got to get a stronger grasp on forming complex models with just primitive objects. Although I couldn't get a handle of the terrain building process just yet, all of this I can use for my own future endeavors. Building with primitives is rather intuitive but not the best process, and it can be very annoying at times with how limited the options are, but it is still a good tool that I am happy to understand. </p>
+
 
 
 
