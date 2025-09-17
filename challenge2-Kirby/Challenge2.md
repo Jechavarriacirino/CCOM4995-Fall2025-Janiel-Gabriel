@@ -61,7 +61,7 @@
 
 
 <h2>Making The Terrain</h2>
-<p>We encountered many technical faults when creating the terrain and we weren't quite able to complete this step with excellence... or at all. We'll portray the steps up until where we were unable to move forward.</p>
+<p>We encountered many technical faults when creating the terrain and we weren't quite able to complete this step as directed. We'll portray the workarounds we had to take to complete this part of the challenge.</p>
 <p>23. Download or convert a height map RAW file from anywhere, and place it into your Assets folder manually</p>
 <p>23.a. Please note that this step is done <em>outside</em> of Unity, in your file browser.</p>
 <p>24. In unity, generate a Terrain game object</p>
@@ -92,6 +92,7 @@
 <p>Gabriel: What I truly learn here is that working with only primitive objects its hard and even working with a simple desing like Kirby can become complex. Learned that the I need more experience with the Terrain, because it was with what I struggle the most.</p>
 
 <p>Janiel: Personally, I got to get a stronger grasp on forming complex models with just primitive objects. Although I couldn't get a handle of the terrain building process just yet, all of this I can use for my own future endeavors. Building with primitives is rather intuitive but not the best process, and it can be very annoying at times with how limited the options are, but it is still a good tool that I am happy to understand. </p>
+
 
 
 
