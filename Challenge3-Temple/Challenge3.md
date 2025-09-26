@@ -84,19 +84,47 @@
 
 
 <p></p>I go into edge select and select one vertical edge above the new entrance, add an edge loop, and another and add an edge loop
-I select the new faces and add some character by estruding them
-I selected all faces, duplicated them, and flipped their normals to make an interior
+<p></p>I select the new faces and give them some thickness by extruding them
 
-Once the base temple is done, now for the assets
-asset store tab>my assets>go to your individual assets>download> import
-I set up some lanterns around the perimeter
-Then some between the stairs
-Two more inside the shrine
-Inside the shrine, I put some Korean heritage items to simulate the shrine of a deceased king
+<p></p>Something I notice is that, although the interior is modeled, the interior is completely transparent.
 
-Materials
-In the assets folder inside unity, create a new folder and call it materials
-enter that folder, and create a new material, name it whatever you want but I named mine whatever
-I set the color and the smoothness to my liking, then I add it to where I want
-rinse and repeat
+
+<p></p>I don't quite know to make the backfaces visible, so I did the next best thing:
+<p></p>I selected all faces, duplicated them, and flipped their normals to make an interior!
+
+
+<h4>The Assets</h4>
+<p></p>On the top toolbar I go to the Asset Store tab> my assets> I go over to my individual assets> download> import
+<p></p>These are the assets I will be using
+
+
+<p></p>The first assets I will use will be the lanterns
+<p></p>I set up some lanterns around the perimeter-
+
+
+<p></p>then some between the stairs-
+<p></p>and, finally, two more inside the shrine
+
+
+<p></p>Inside the shrine, I put some Korean heritage items to simulate gifts
+<p></p>I arrange them in a way that looks as if it were all to honor the dead, even though I know very well none of these items are actual finerary items
+<p></p>But it all looks so pretty together!
+
+
+<h4> The Materials</h4>
+<p></p>In the assets folder inside unity, I created a new folder and called it "materials"
+<p></p>I entered that folder, and created a new material
+<p></p>I set the color and the smoothness to my liking, then I added it to the base to make it appear like fresh stone that hasn't aged
+<p></p>I did the same steps for the rest of the probuilder objects, but left the assets with their own materials
+
+
+<h4>The Exportation</h4>
+<p></p>For this next part, I needed to export the temple and its assets over to my teammate so he could finalize the terrain and its details
+<p></p>To do that, I needed one more add-on known as FBX Exporter
+<p></p>Over at the Package Manager> Unity Registry> FBX Exporter, and then I installed it
+<p></p>Installing it allowed me to export the temple into an FBX Binary file
+<p></p>Before that, I grouped absolutely everything into their respective categories (temple, assets, etc) using empties
+<p></p>Once grouped, I selected the main group, went to GameObjects> Export to FBX> selected the options that applied to my exportation, and of course, exported it
+<p></p>The file was too big for github, so I had to make sure my teammate had it through different means of sending
+
  
