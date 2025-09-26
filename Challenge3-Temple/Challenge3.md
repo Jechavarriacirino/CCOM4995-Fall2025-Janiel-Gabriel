@@ -4,7 +4,7 @@
 <h4>The Base</h4>
 <p></p>I will start from the bottom up, so first, I'll make the absolute base a big, tilted square.
 <p></p>Above the top toolbar, in the options bar, in Unity 6 specifically, I go to Tools> ProBuilder> Editor> Create Shape> Plane and draw a new plane.
-
+<img src="/NewPlane.png">
 
 <p></p>In the inspector, under Pro Builder Shape, I size it 100x by 100z to have a nice flat square.
 
