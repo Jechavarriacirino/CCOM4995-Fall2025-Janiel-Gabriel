@@ -153,6 +153,36 @@
 <p></p>Once grouped, I selected the main group, went to GameObjects> Export to FBX> selected the options that applied to my exportation, and of course, exported it
 <p></p>The file was too big for github, so I had to make sure my teammate had it through different means of sending
 
+<h3> Create the Terrain </h3>
+<p>We create a 3d object that is a Terrain.</p>
+<img src="\Create the Terrain for the Temple.png"> 
+<p>Then we set the dimension of the terrain on Terrain Settings on the Mesh Resolution in the Inspector.</p>
+<img src="\TerrainDimensions.png">
+<p>Place the structure on the terrain.</p>
+
+<h3> Decorar el Terreno</h3>
+<p>Now we go into windows Assets Store and we look for something that fits on your idea of the surroundings of your structure.</p>
+<img src="\AssetsStore.png">
+<p>Now we Render all the assets that we import under Window and we select Render Pipeline Converter.</p>
+<img src="\Rendering.png">
+<p>On Terrain we go to paint Terrain and we select the Paint Texture brush and Create a new Layer that will work as base of your terrain.</p>
+<p>Make sure the Size is big enouhg so it doenst look too repetitive under Channel Default Valuables.</p>
+<img src="\FirstLayer.png">
+<p>Create a new layer and make the surroundings of the temple more like it has mud or dirt.</p>
+<img src="\SecondLayer.png">
+<img src="\DirtMud.png">
+<p>Then I create anothe to simulate like cement or a floor that is used to walk.</p>
+<img src="\Ground.png">
+<p>Now we add the tree that we Import to the Paint trees brush and ajust the brush size to one so we can place them as close as we want.</p>
+<img src="\TreeDetails.png">
+<img src="\AddTrees.png">
+<p>Then we place as many trees as we want, you can add small tres to make them look like bushes.</p>
+<img src="\Trees.png">
+<p>And Then we drag the prefabs of the animals we want to place.</p>
+<img src="\Cats.png">
+<img src="\MoreAnimals.png">
+<img src="\Deer.png">
+
  <h3>The Story of the Shrine of Sol-Petahe</h3>
 <p>Many centuries ago, in a time only remembered as myth, a temple was raised in honor of Sol-Petahe, the insect god of the land. As an act of gratitude and reverence to the  deity, the locals offer one gift every 5 years into the shrine atop the temple. This gift is preceded by a festival that lasts 5 days and 5 nights, the festival ending the fifth night once the gift is left in the shrine. The temple, although always open, is respected enough by the locals to not be entered until it is time to prepare for the festival, as they believe stealing from Sol-Petahe may bring a plague to not only the thief, but their people.</p>
 
