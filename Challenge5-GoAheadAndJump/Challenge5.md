@@ -8,7 +8,7 @@
 
 <p>For Janiel's submission, The Hub from ENA Dream BBQ, and Velmas Viru Gate from World of Dweebs</p>
 <img src="TheHub.png">
-<img src="VelmasViruGate.png">
+<img src="LetsDanceBoys.png">
 
 <h3>Action Matrix</h3>
 <p>Below is the complete action matrix for the player character</p>
