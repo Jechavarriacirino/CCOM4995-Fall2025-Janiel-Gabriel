@@ -6,7 +6,7 @@
 <img src="LaVaguelette.png">
 <img src="SealedVessel.png">
 
-<p>For Janiel's submission, The Hub from ENA Dream BBQ, and Velmas Viru Gate from World of Dweebs</p>
+<p>For Janiel's submission, The Hub from ENA Dream BBQ, and Let's Dance, Boys! from Bayonetta.</p>
 <img src="TheHub.png">
 <img src="LetsDanceBoys.png">
 
